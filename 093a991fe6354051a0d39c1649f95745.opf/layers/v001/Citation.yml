@@ -1,4 +1,19 @@
-id: 8b69908752014334ba1610c07caf877f
+id: 6b7f62b735804692a188e374d6937a66
 annotation_type: Citation
-revision: '00001'
-annotations: {}
+revision: '00023'
+annotations:
+  9e7d10ade1414d9dbed63543c17d3729:
+    span:
+      start: 578
+      end: 702
+    is_verse: true
+  100c569a79ae4941a74953e00742051a:
+    span:
+      start: 1536
+      end: 1564
+    is_verse: false
+  9c7b587269284c74b2b421d4ef063a54:
+    span:
+      start: 1772
+      end: 1923
+    is_verse: true
