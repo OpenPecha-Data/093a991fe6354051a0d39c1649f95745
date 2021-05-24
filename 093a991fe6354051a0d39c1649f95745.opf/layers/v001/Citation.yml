@@ -2,18 +2,33 @@ id: 6b7f62b735804692a188e374d6937a66
 annotation_type: Citation
 revision: '00023'
 annotations:
-  9e7d10ade1414d9dbed63543c17d3729:
+  c282c51aa8704ea2a97c221171b3488c:
     span:
       start: 578
       end: 702
     is_verse: true
-  100c569a79ae4941a74953e00742051a:
+  64d98623e41140a4ac670582ed9bc045:
     span:
       start: 1536
       end: 1564
     is_verse: false
-  9c7b587269284c74b2b421d4ef063a54:
+  2aa7e272287e4267b58e6bf1a25a352a:
     span:
       start: 1772
       end: 1923
+    is_verse: true
+  04e5bbecd7534f06af1e44a805d01c00:
+    span:
+      start: 4764
+      end: 4844
+    is_verse: true
+  62b66a8f3d484909a296d397eb7b0d3e:
+    span:
+      start: 4860
+      end: 4904
+    is_verse: false
+  70c5f759f05d4153a4b85f5c04a6e036:
+    span:
+      start: 5994
+      end: 6173
     is_verse: true
