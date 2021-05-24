@@ -2,73 +2,83 @@ id: 6b7f62b735804692a188e374d6937a66
 annotation_type: Citation
 revision: '00025'
 annotations:
-  e5a4f285bc15439eb663f109f26e0629:
+  4fa85eebd3cc481fa1d27348910c9237:
     span:
       start: 578
       end: 702
     is_verse: true
-  402d925d547846dbb7f03caef866a995:
+  c4244993fb134170a86ebe479f3465f2:
     span:
       start: 1536
       end: 1564
     is_verse: false
-  b6b93f24472a40acbb1c2278e485c40e:
+  24c3b2cf3f4d45d8babc3dce74175ab9:
     span:
       start: 1772
       end: 1923
     is_verse: true
-  d68a710216da4c3a8d6179cb43a3ed91:
+  edcd0a814cb54252a60e3ec996063667:
     span:
       start: 4764
       end: 4844
     is_verse: true
-  52da5b6f9c0d4539a5c21f1bdd518b37:
+  6e3a5f7c95da4c848f21a5ceb7fa3eb5:
     span:
       start: 4860
       end: 4904
     is_verse: false
-  405c72b4554a4e18b5879533b801a953:
+  429757fdb9f54913a823952e7e3db45e:
     span:
       start: 5994
       end: 6173
     is_verse: true
-  3481ba5bcc5c4cc093f3f986a8f80c6b:
+  d86143238edf4c0da81889aa2ad7de7d:
     span:
       start: 7407
       end: 7526
     is_verse: true
-  b4c99d39e9b646879e8c4aa9d706adf8:
+  7d61f36726f94034ba9d2fc5741418c7:
     span:
       start: 8138
       end: 8255
     is_verse: true
-  576c82bd2b424930870520637bdc2c1b:
+  4f068bf275914184afe8a660bcd203f5:
     span:
       start: 10519
       end: 10635
     is_verse: true
-  2cc1b4718d65464ea4edb5092e2c4563:
+  f70eb5ce4b4740dc89d63dd91162e852:
     span:
       start: 11253
       end: 11371
     is_verse: true
-  650ef10326c44a1090c0c81bb588d1f5:
+  ba49603c3727465d9f13ca37de7e0d86:
     span:
       start: 11685
       end: 11798
     is_verse: true
-  95ab9efdd7b34984ae51fc39bc9b4df3:
+  207c8f02888b4e18bc4203a405c26c18:
     span:
       start: 12408
       end: 12515
     is_verse: true
-  ef563a3efb764beb8a35904f4508ebdc:
+  778a22c6d5f8490e9c1764af75d71f37:
     span:
       start: 12592
       end: 12838
     is_verse: true
-  1ad62599330440549a3289cb683833a3:
+  e2ddeca6161f470fbb8b78d24021ca53:
     span:
       start: 14110
       end: 14481
     is_verse: true
+  7a5a77b57efa4dd3bfd080b8bb8f5dc6:
+    span:
+      start: 16402
+      end: 16648
+    is_verse: true
+  ac6ca5d856f045659818beec807c911e:
+    span:
+      start: 16722
+      end: 16753
+    is_verse: false
