@@ -1,18 +1,18 @@
 id: a13279a9dc424e5ea4bde7f704d0734e
 annotation_type: Tsawa
-revision: 00008
+revision: 00009
 annotations:
-  db9a240604bf4feebed4f64fbb24820c:
+  13765d7779e741378040799e2ef05a9c:
     span:
       start: 1070
       end: 1163
     is_verse: true
-  b53635e2ae334e2294d44ae8c50ca3e6:
+  3b297c22593e448481852c68a5b781c7:
     span:
       start: 3453
       end: 3585
     is_verse: true
-  c558dc39d99e40c59c04464d98a87106:
+  d6038bec1bb34e27b9ed98650fd874fa:
     span:
       start: 6616
       end: 6733

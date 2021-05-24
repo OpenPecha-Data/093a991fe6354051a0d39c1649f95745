@@ -1,49 +1,74 @@
 id: 6b7f62b735804692a188e374d6937a66
 annotation_type: Citation
-revision: '00024'
+revision: '00025'
 annotations:
-  08f83ababa2c4e909fa725e30e270726:
+  e5a4f285bc15439eb663f109f26e0629:
     span:
       start: 578
       end: 702
     is_verse: true
-  88b40045a02340ed963bdd9c2b5d7950:
+  402d925d547846dbb7f03caef866a995:
     span:
       start: 1536
       end: 1564
     is_verse: false
-  43d6d41b79e5456fa4ee06c2eb6ea9c5:
+  b6b93f24472a40acbb1c2278e485c40e:
     span:
       start: 1772
       end: 1923
     is_verse: true
-  9b99ed75f8644f1bbf113b4713c2092b:
+  d68a710216da4c3a8d6179cb43a3ed91:
     span:
       start: 4764
       end: 4844
     is_verse: true
-  fafcb78d15e74f278a7690f4144b4b07:
+  52da5b6f9c0d4539a5c21f1bdd518b37:
     span:
       start: 4860
       end: 4904
     is_verse: false
-  307129e623d34d9098b12ff177b78e9d:
+  405c72b4554a4e18b5879533b801a953:
     span:
       start: 5994
       end: 6173
     is_verse: true
-  8032091c1aad4aeaa77d818828a94290:
+  3481ba5bcc5c4cc093f3f986a8f80c6b:
     span:
       start: 7407
       end: 7526
     is_verse: true
-  9e43a46cc57a44d6816e05e1398f03d6:
+  b4c99d39e9b646879e8c4aa9d706adf8:
     span:
       start: 8138
       end: 8255
     is_verse: true
-  6542ffc753d7426e99978539888dee5f:
+  576c82bd2b424930870520637bdc2c1b:
     span:
       start: 10519
       end: 10635
+    is_verse: true
+  2cc1b4718d65464ea4edb5092e2c4563:
+    span:
+      start: 11253
+      end: 11371
+    is_verse: true
+  650ef10326c44a1090c0c81bb588d1f5:
+    span:
+      start: 11685
+      end: 11798
+    is_verse: true
+  95ab9efdd7b34984ae51fc39bc9b4df3:
+    span:
+      start: 12408
+      end: 12515
+    is_verse: true
+  ef563a3efb764beb8a35904f4508ebdc:
+    span:
+      start: 12592
+      end: 12838
+    is_verse: true
+  1ad62599330440549a3289cb683833a3:
+    span:
+      start: 14110
+      end: 14481
     is_verse: true
