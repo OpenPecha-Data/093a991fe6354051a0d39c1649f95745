@@ -1,44 +1,49 @@
 id: 6b7f62b735804692a188e374d6937a66
 annotation_type: Citation
-revision: '00016'
+revision: '00024'
 annotations:
-  ed895b101bea46d7b1f333c5ab4d4575:
+  08f83ababa2c4e909fa725e30e270726:
     span:
       start: 578
       end: 702
     is_verse: true
-  424bb0f31fed4d67b8e465d77d3e7c1f:
+  88b40045a02340ed963bdd9c2b5d7950:
     span:
       start: 1536
       end: 1564
     is_verse: false
-  25cb2a0662494ecf9eb1a9e292e89760:
+  43d6d41b79e5456fa4ee06c2eb6ea9c5:
     span:
       start: 1772
       end: 1923
     is_verse: true
-  83ee13f2c2494875a708bce7c8501ae1:
+  9b99ed75f8644f1bbf113b4713c2092b:
     span:
       start: 4764
       end: 4844
     is_verse: true
-  0e7859d772294812ad200622cf0346f5:
+  fafcb78d15e74f278a7690f4144b4b07:
     span:
       start: 4860
       end: 4904
     is_verse: false
-  f0aea7cc8d6141e0b09695b252e301a6:
+  307129e623d34d9098b12ff177b78e9d:
     span:
       start: 5994
       end: 6173
     is_verse: true
-  ecf3b2ea41b04ecea7f3a8352d64c60b:
+  8032091c1aad4aeaa77d818828a94290:
     span:
       start: 7407
       end: 7526
     is_verse: true
-  a0c40efab20d4b29b78bfac40c6e963e:
+  9e43a46cc57a44d6816e05e1398f03d6:
     span:
       start: 8138
       end: 8255
+    is_verse: true
+  6542ffc753d7426e99978539888dee5f:
+    span:
+      start: 10519
+      end: 10635
     is_verse: true
