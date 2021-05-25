@@ -1,6 +1,6 @@
 id: 8b93e51d868a4eddb2a23cbda013a6b4
 annotation_type: Sabche
-revision: '00023'
+revision: '00016'
 annotations:
   66bb5b7b1e154272b99a18ad772f8f4f:
     span:
@@ -12,49 +12,57 @@ annotations:
       end: 3447
   813c9a41bee540559fb84c5b80bcb65a:
     span:
-      start: 6504
-      end: 6609
+      start: 7199
+      end: 7214
   74ea6c436479462ea2960b71cb133c06:
     span:
-      start: 7192
-      end: 7201
+      start: 7215
+      end: 7219
   93c697b43b7f45aea905e6a7059aab1e:
     span:
-      start: 10260
-      end: 10378
+      start: 11556
+      end: 11586
   6f018f53378c44a5a8a34e32e5b8d9ec:
     span:
-      start: 11530
-      end: 11599
-  cf996b159017455693fa0e1e739664d7:
+      start: 12578
+      end: 12599
+  ff66813c67654ab19967adba3d000c1b:
     span:
-      start: 16800
-      end: 16813
-  c218e6586263498db655dc30378a5749:
+      start: 12570
+      end: 12577
+  5d3d4ce81a284304bb6c7a976a89c474:
     span:
-      start: 20128
-      end: 20382
-  43dc79e0cf3041d29291ba340afdbd86:
+      start: 12600
+      end: 12603
+  bc849b7c1e9e4c4598b5a00639d5e825:
     span:
-      start: 21694
-      end: 21701
+      start: 16875
+      end: 16888
+  82aeeeba163644699d9e369bb7362e91:
+    span:
+      start: 20203
+      end: 20457
+  20b1479eca4b466494ab88fbee5bc0ac:
+    span:
+      start: 21769
+      end: 21776
   103803c3689d40b39d64074ef36a3e45:
     span:
-      start: 21702
-      end: 21718
-  b8c46785c5a443c882b2f073c32eb8dc:
+      start: 21777
+      end: 21793
+  bb6ad722f652400db76063477a4692e7:
     span:
-      start: 21719
-      end: 21722
-  a34ab8aa953644d087af2226af302fb0:
+      start: 21794
+      end: 21797
+  e51bd4e421c14ad9bd624526db16afe7:
     span:
-      start: 23518
-      end: 23546
-  c1e49e3d543644898fdb8758c7361a6a:
+      start: 23593
+      end: 23621
+  783573f7c7e1470991d0f04f95a3b959:
     span:
-      start: 24096
-      end: 24132
-  bb92f9ac871447b591d24562935149d6:
+      start: 24171
+      end: 24207
+  1f3995e1f51649e89d9836beb15069a9:
     span:
-      start: 26728
-      end: 26747
+      start: 26803
+      end: 26822
