@@ -1,6 +1,6 @@
 id: 6b7f62b735804692a188e374d6937a66
 annotation_type: Citation
-revision: '00026'
+revision: '00027'
 annotations:
   fddf4ce358aa4ef885d5ff68a6cbaca5:
     span:
@@ -67,7 +67,7 @@ annotations:
       start: 12653
       end: 12899
     is_verse: true
-  236cc7bf6cfc4ee5ad485951e1478402:
+  34a5f0be0e1649bfabc7189e0736e88a:
     span:
       start: 14004
       end: 14032
@@ -92,72 +92,72 @@ annotations:
       start: 17413
       end: 17943
     is_verse: true
-  db0d71fddf28481dbfc106000836dfaf:
+  2c6635ef75224fa1853b74c303f1ee61:
     span:
       start: 18589
       end: 18700
     is_verse: true
-  e2cb85ea0c944186ba3221647c61f882:
+  882c6d1321c4481c862d407be0a83a19:
     span:
       start: 19101
       end: 19270
     is_verse: true
-  e861b46d91f443a4b6d73f5b7c22c3ea:
+  f87737e1d25949c4acc058f9a1e38aa6:
     span:
       start: 19821
       end: 19932
     is_verse: true
-  c6e8b7d8cc1a41ca8cf4ad5e18ddd776:
+  136f4fabd1ad4fa6bf7f7a87779b4843:
     span:
       start: 19982
       end: 20010
     is_verse: false
-  2f230cae2da643d38eaf92aa4ba5b8e4:
+  c74b3f1edde94e7ca7837393a35fc6fa:
     span:
       start: 21607
       end: 21634
     is_verse: false
-  3428a9103a9a49f395f97fb616882966:
+  2379eb9ba347410fa2e676525cd9c375:
     span:
       start: 21872
       end: 22122
     is_verse: true
-  c4bc7c76aca04f98bf9b17f68af4707d:
+  3733da8447254dd68fd0a6e4005ea3d5:
     span:
       start: 22153
       end: 22271
     is_verse: true
-  a700e6334b0645cbb8902ddbb0c1caa3:
+  9c45a45277074406b4ecce299f929ff7:
     span:
       start: 22698
       end: 22817
     is_verse: true
-  194d67b8a0da45b2af515c84f3d60f90:
+  00a9e2e6e5a1412fb77438ead4bc0ed8:
     span:
       start: 23315
       end: 23561
     is_verse: true
-  86b353a9f00340e9bed3caf38656ab30:
+  f8e529680f6640d6b42dbb73aba0ccf6:
     span:
       start: 24749
       end: 24894
     is_verse: true
-  ad0e3a765dd64260b0f84dc49c668f61:
+  faefbf6e04544577b6d315c3a41e5a3e:
     span:
       start: 24934
       end: 25113
     is_verse: true
-  6b2abd39f56b422d8899282c6024fa4a:
+  57d5dd3a7f854ef79c07d968c0e6b01e:
     span:
       start: 26448
       end: 26608
     is_verse: true
-  349f10b07f9a4891ae4daf676be0947e:
+  b8f0c454ef6d4168a25f98ac6a9a72ee:
     span:
       start: 26661
       end: 26785
     is_verse: true
-  3ac2e1152e8b4597af05a2cf4a866ff0:
+  a905421c07374f3b9bd7035ccffc9ec9:
     span:
       start: 27494
       end: 27672
