@@ -1,6 +1,6 @@
 id: 6b7f62b735804692a188e374d6937a66
 annotation_type: Citation
-revision: '00030'
+revision: '00032'
 annotations:
   fddf4ce358aa4ef885d5ff68a6cbaca5:
     span:
@@ -67,7 +67,7 @@ annotations:
       start: 12578
       end: 12824
     is_verse: true
-  ba1595191fda4cd38acea023f288a6d6:
+  df2bd01cc6ce40598e40264cb30ca707:
     span:
       start: 13929
       end: 13957
@@ -92,68 +92,73 @@ annotations:
       start: 17338
       end: 17868
     is_verse: true
-  c8e9d42d73344c8c9d7616fba9743307:
+  612f6e41ca8e4a5d9cc765463c1c2ff9:
     span:
       start: 18514
       end: 18625
     is_verse: true
-  7018847b5e8c403d817173faec58d5a6:
+  1100473aba2a4793a92413d4ff11dae0:
     span:
       start: 19026
       end: 19195
     is_verse: true
-  d1586dfd628a44d08a456629c422d5c3:
+  9faf3b83a63d4a6a8442115d3a8ad389:
     span:
       start: 19746
       end: 19857
     is_verse: true
-  0e3e86b93ad4491390d14a33ff556748:
+  a725ba4a0fe74adfbcf21311299c667f:
     span:
       start: 19907
       end: 19935
     is_verse: false
-  20ea20e2389a429db83ae921a9dd48ed:
+  d66ee0463aa04afd9609970b70217004:
     span:
       start: 21532
       end: 21559
     is_verse: false
-  7fdc09aa8b4c4b1fa36d17f45db196db:
+  a9e0e78931d745899b92adf9f942622d:
     span:
       start: 21797
       end: 22047
     is_verse: true
-  c1d90660105b4c8488aa9ca118aeeac9:
+  a08b8e4b1f704ea78f7760a8d71b17a0:
     span:
       start: 22078
       end: 22196
     is_verse: true
-  aca75037842f49f29c0f83dc825071a5:
+  b2873e2fab594cf2b6b35480656f29d7:
     span:
       start: 22623
       end: 22742
     is_verse: true
-  a667876a75e44f0fb55b0eb8bcc38311:
+  050cb9f9b5474cd7a6ea74285b50430a:
     span:
       start: 23240
       end: 23486
     is_verse: true
-  60b98e5afd1c4f4f918ba17424c6e154:
+  b78a6b9294794f1094f9d289b3b5046e:
     span:
       start: 24674
       end: 24819
     is_verse: true
-  12cdbbea89f44c0e9d639fc274337505:
+  00bb98ed9c7a4a89bfbe98316f0e6e99:
     span:
       start: 24859
       end: 25038
     is_verse: true
-  999cb417166044f2a48f4393ce79a081:
+  6a2e1d5f053b4440ade6833e9bcab1e7:
     span:
       start: 26373
       end: 26533
     is_verse: true
-  16ef06ccadc34950aa92348e6bb6d916:
+  932f983f3a9148e4b8967585d1ef01d5:
     span:
       start: 26586
       end: 26710
+    is_verse: true
+  a1c282a6b95c4700a8b36002d9fb70bb:
+    span:
+      start: 27419
+      end: 27597
     is_verse: true
