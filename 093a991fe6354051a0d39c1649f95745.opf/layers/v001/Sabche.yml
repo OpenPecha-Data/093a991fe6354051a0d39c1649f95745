@@ -1,6 +1,6 @@
 id: 8b93e51d868a4eddb2a23cbda013a6b4
 annotation_type: Sabche
-revision: '00017'
+revision: '00023'
 annotations:
   66bb5b7b1e154272b99a18ad772f8f4f:
     span:
@@ -26,23 +26,23 @@ annotations:
     span:
       start: 12578
       end: 12599
-  f230b1c3200f4b57b6d9926f89e0485e:
+  132b3bf07d1f44c9a92ea2f64747f6ed:
     span:
       start: 12570
       end: 12577
-  0e58e3421ee44a2088dd8a761f0fc33a:
+  e431645dd4d348f5bebb8baff5ee3af8:
     span:
       start: 12600
       end: 12603
-  be33ec13c7be490c8d1dde2b274ca14a:
+  6a58be404dad4d3ca7a1d08ad8bd9407:
     span:
       start: 16875
       end: 16888
-  943258861d614bc4b62486704daf62d4:
+  1d77ed9bbe9d420896fea983d5aff6cb:
     span:
       start: 20203
       end: 20457
-  bff7f1f4c99c4292bd2654835f297dc8:
+  fb5077fe8f6e4e44befc4693edf88962:
     span:
       start: 21769
       end: 21776
@@ -50,23 +50,27 @@ annotations:
     span:
       start: 21777
       end: 21793
-  a03c1e0057384a3684676fc0ca102731:
+  567f949ff43a4566b2e0f2aedf52c4f3:
     span:
       start: 21794
       end: 21797
-  591d06eec0f146178c5f58d6b0a38203:
+  0569853f8f0f40f38261803a968ad0cf:
     span:
       start: 23593
       end: 23621
-  f5c90aa06a784e9986b26702a2ed2150:
+  f7aa57c2095545d5bb1e7a6674db0d93:
     span:
       start: 24171
       end: 24207
-  c18129954f7242fa8aacd8430a5871fc:
+  ae8f9a89f9b14e658ff4435ef68864c9:
     span:
       start: 26803
       end: 26822
-  d79af6b7bfe64f2881afa4baf32076d4:
+  fe78cd031903408f823500e0bf073ad2:
     span:
       start: 27684
       end: 28054
+  5462d2a4f6ac471e9608beae024ecb1a:
+    span:
+      start: 28551
+      end: 28597
