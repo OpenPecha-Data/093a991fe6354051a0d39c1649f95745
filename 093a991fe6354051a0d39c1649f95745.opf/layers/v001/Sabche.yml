@@ -1,6 +1,6 @@
 id: 8b93e51d868a4eddb2a23cbda013a6b4
 annotation_type: Sabche
-revision: '00021'
+revision: '00022'
 annotations:
   66bb5b7b1e154272b99a18ad772f8f4f:
     span:
@@ -26,11 +26,31 @@ annotations:
     span:
       start: 11530
       end: 11599
-  efc2ead940124a21ab212c33f193cd4b:
+  0cfdfc0a723e4e3db36ab38bb286d5ac:
     span:
       start: 16800
       end: 16813
-  2c20fe04068345e89525cf3b4cb2c65d:
+  40268b9f08cd47efa4b3ca156dd1d619:
     span:
       start: 20128
       end: 20382
+  417cbce569534cca9a34c610cca3638f:
+    span:
+      start: 21694
+      end: 21701
+  103803c3689d40b39d64074ef36a3e45:
+    span:
+      start: 21702
+      end: 21718
+  bb94dfe03d414c4a9066b502ca5d8ee0:
+    span:
+      start: 21719
+      end: 21722
+  d1f70b9ec08f495a8b07a96ef22150c6:
+    span:
+      start: 23518
+      end: 23546
+  3df624916e6949c997b9a546bb8de6fa:
+    span:
+      start: 24096
+      end: 24132
