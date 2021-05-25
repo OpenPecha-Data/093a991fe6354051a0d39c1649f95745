@@ -1,6 +1,6 @@
 id: 6b7f62b735804692a188e374d6937a66
 annotation_type: Citation
-revision: '00023'
+revision: '00030'
 annotations:
   fddf4ce358aa4ef885d5ff68a6cbaca5:
     span:
@@ -67,7 +67,7 @@ annotations:
       start: 12653
       end: 12899
     is_verse: true
-  d5249cf805a042f081ae8f69707409c1:
+  db79770dcc5a495ea985d2f7623a52e4:
     span:
       start: 14004
       end: 14032
@@ -92,153 +92,178 @@ annotations:
       start: 17413
       end: 17943
     is_verse: true
-  9576cb43590942129f8116ae1ad5032f:
+  d7d506a578b5439db085277ef616bd50:
     span:
       start: 18589
       end: 18700
     is_verse: true
-  42771cd795b24ef782ba01176ac9c8f8:
+  93794d2d99aa4a9ca495761fa83c4642:
     span:
       start: 19101
       end: 19270
     is_verse: true
-  d7b15d38151041cebec90ac5be1df5d8:
+  12e8dfb87a554854b4cb81aa126ea2b2:
     span:
       start: 19821
       end: 19932
     is_verse: true
-  f7158e6f2fb34988b4a02bee8ff121a8:
+  33a06d043445436ab424ed7d97764495:
     span:
       start: 19982
       end: 20010
     is_verse: false
-  a0ac9c2401a6419ea41e65bdf5c0231b:
+  77723057cc074225b9ed4f1b8096859c:
     span:
       start: 21607
       end: 21634
     is_verse: false
-  7e6a30b962784258a44c4db09f198640:
+  96444bedb1f648d5a9e3c521f06fb609:
     span:
       start: 21872
       end: 22122
     is_verse: true
-  36d8317104574fca90d5b353a08e7f50:
+  4b0db8bbb7da4e71869ccf04c01cf11e:
     span:
       start: 22153
       end: 22271
     is_verse: true
-  49feb7ff855f4f3896d1022f534d42d8:
+  01e6b66402554d9e9b84a258f7c0971b:
     span:
       start: 22698
       end: 22817
     is_verse: true
-  ef20f95c6b5b46deae22795bd5008c26:
+  b990157fb1e449abb3ab3e28d559a8e0:
     span:
       start: 23315
       end: 23561
     is_verse: true
-  03d09b60119d444e85f107f4033d142d:
+  aa570e55a6a6439d91458e0b95d2c553:
     span:
       start: 24749
       end: 24894
     is_verse: true
-  9ab8710ff9fb4ccb80a6b3803898fa5b:
+  8006697d1fdd43a2a952af094c7f21bb:
     span:
       start: 24934
       end: 25113
     is_verse: true
-  3145ed73db8b4b36a0bfdfe475edc04d:
+  d253e6b7a9254387909ffb976d5ecc76:
     span:
       start: 26448
       end: 26608
     is_verse: true
-  c0cd8e963323463593be592818780326:
+  2742c69a6e7845bf99d154b3d8f7f1f0:
     span:
       start: 26661
       end: 26785
     is_verse: true
-  0849c5f8ea83408d91a5f1163a85904f:
+  6b388e98c65647a9b014e90e6a9e223f:
     span:
       start: 27494
       end: 27672
     is_verse: true
-  ab72c82315074808962658f1d59ccabc:
+  4ff5f7bf0bab4463b39430164f7cc568:
     span:
       start: 29390
       end: 29613
     is_verse: true
-  110aa3b12d464cbe9c717c304aa05d89:
+  8c50e05a459f4302a63032cfcbad318f:
     span:
       start: 29747
       end: 29864
     is_verse: true
-  4a144cda21e64739bc3f1a5dc973e2c0:
+  fce2ead01c8948629627227af8fdf0e3:
     span:
       start: 31362
       end: 31562
     is_verse: true
-  c999906a9b244ca49550ff02331368d6:
+  1e7d47aa71744fb694739f843da7d84c:
     span:
       start: 31904
       end: 32077
     is_verse: true
-  3e34ce72b6dd4756b664236fb21ae913:
+  e640c53d162e48aaa2b0596a2da8d734:
     span:
       start: 32640
       end: 32876
     is_verse: true
-  a62d05ad9aeb4cf8906a87cb4378c1c3:
+  d0e547e7deb8421485facedc808a223a:
     span:
       start: 32894
       end: 32919
     is_verse: false
-  2c09d2b8c8e74302ab9c4ec09ed63f34:
+  87a5547788d6477caeb946c82c54bb75:
     span:
       start: 32932
       end: 32965
     is_verse: false
-  edc3ccbe1c7e45c28d09f77998e4b7f4:
+  ea96c05c3e6a4300bd2a685d1831d152:
     span:
       start: 34255
       end: 34324
     is_verse: false
-  96ca78fde3324ccfa8237305b7a038fe:
+  ef8942bac09f410895dea7013d440a05:
     span:
       start: 34554
       end: 34585
     is_verse: false
-  2b17550ee700428d937533dc8b187619:
+  b2e00956517b4edda357bc7942275e88:
     span:
       start: 35313
       end: 35433
     is_verse: true
-  af91032b95db4dac91b5dda7f8a76fbe:
+  43ae809179d34237b80d9c60f369f2d0:
     span:
       start: 35782
       end: 36116
     is_verse: true
-  1efb6bb596314875afb2e27025e3c729:
+  309ccac21e514e39b3cdf4f126824842:
     span:
       start: 36448
       end: 36697
     is_verse: true
-  9543ce7652f240c4a9d890ad4d8ef6e3:
+  0f298380051d4e828a503f97b14eed7a:
     span:
       start: 36957
       end: 36985
     is_verse: false
-  46c5f2ea11bc439eb916ae55f5ffee44:
+  4e91a9b6eb004e76814e88765a5f1553:
     span:
       start: 37922
       end: 37982
     is_verse: true
-  4a726a286a65405e9224b86295cc8068:
+  fe02f90b273f433b898816e1f8e51365:
     span:
       start: 38142
       end: 38264
     is_verse: true
-  eaa1e7af98924191a61ca85a10fdcc50:
+  5b772b902276488cad4b8d485a0a9e89:
     span:
       start: 38312
       end: 38548
+    is_verse: true
+  486ec912bb83497886c115af93823eb1:
+    span:
+      start: 39791
+      end: 39850
+    is_verse: true
+  016c7cb0641b431f9126eac920ce3b27:
+    span:
+      start: 39888
+      end: 39921
+    is_verse: false
+  eb2ed18eefc14cd6b9329c44efa2b075:
+    span:
+      start: 40641
+      end: 40768
+    is_verse: true
+  d44f5534cf3145e0ad58afb624746f0a:
+    span:
+      start: 40842
+      end: 40956
+    is_verse: true
+  34723c2de89e49f28c6aa6ad5a4e50e0:
+    span:
+      start: 41012
+      end: 41379
     is_verse: true

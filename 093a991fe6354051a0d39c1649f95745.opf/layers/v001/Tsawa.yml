@@ -1,6 +1,6 @@
 id: a13279a9dc424e5ea4bde7f704d0734e
 annotation_type: Tsawa
-revision: '00014'
+revision: '00013'
 annotations:
   3c6b56c9e2c94a1d87d99d73820f28b7:
     span:
@@ -22,53 +22,58 @@ annotations:
       start: 16890
       end: 16912
     is_verse: false
-  0326741632e142d58b24a70998bec892:
+  e4ade252f6c243afa2a58bafc61eb516:
     span:
       start: 20459
       end: 20578
     is_verse: true
-  ea7fe4eff13f40fead69cd880c44c712:
+  8b63213d0d4b4f1eb8fb82eb83fa7216:
     span:
       start: 23623
       end: 23741
     is_verse: true
-  eaac616f09094f1898e40b13eef5c77d:
+  6f56e558b3a6485888d878eaaff11c58:
     span:
       start: 24209
       end: 24322
     is_verse: true
-  24cac99d5ae845709b26a9ab343d1c1b:
+  a43f9b131b5f4c2fac6867ea2b761e15:
     span:
       start: 26825
       end: 26934
     is_verse: true
-  ddb8035242db472aa5d83775dad78caf:
+  2788031d587543718af92bfe424b6b91:
     span:
       start: 28056
       end: 28179
     is_verse: true
-  c836188d658947deaf6dc95716df586d:
+  71c4d5f466644a8993010c002ebdd073:
     span:
       start: 28599
       end: 28718
     is_verse: true
-  04a2e37985334a2fab6ee21b368b1415:
+  ce7d2993a51e43a78946568a79ed49a0:
     span:
       start: 30331
       end: 30680
     is_verse: true
-  0a477ba9b0114d6c8900a89fb2a643da:
+  75b17cc990c5418483540be8d059609b:
     span:
       start: 33236
       end: 33354
     is_verse: true
-  1d245df9e48b497a832eb9e7c7d50acf:
+  7fb20dccf5fd4c929e161fc4d4d95430:
     span:
       start: 37578
       end: 37700
     is_verse: true
-  b6adc87ec20f4b97897c4ba4d45b5d66:
+  74f7d3d5a24c4a43b0cee7cd0b58bcf7:
     span:
       start: 38919
       end: 39144
+    is_verse: true
+  aa7d5f2d8fa7493488ce4b256ec463a6:
+    span:
+      start: 41435
+      end: 41550
     is_verse: true
