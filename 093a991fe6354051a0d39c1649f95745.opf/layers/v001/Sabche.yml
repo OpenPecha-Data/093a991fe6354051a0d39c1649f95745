@@ -1,6 +1,6 @@
 id: 8b93e51d868a4eddb2a23cbda013a6b4
 annotation_type: Sabche
-revision: '00020'
+revision: '00022'
 annotations:
   66bb5b7b1e154272b99a18ad772f8f4f:
     span:
@@ -22,14 +22,14 @@ annotations:
     span:
       start: 11556
       end: 11586
-  6f018f53378c44a5a8a34e32e5b8d9ec:
-    span:
-      start: 12578
-      end: 12599
   f713a63f4f6446aeb9fca83fcf3b7263:
     span:
       start: 12570
       end: 12577
+  6f018f53378c44a5a8a34e32e5b8d9ec:
+    span:
+      start: 12578
+      end: 12599
   ed5022623ccb4f2d938e69d269e0c5a8:
     span:
       start: 12600
@@ -56,49 +56,49 @@ annotations:
       end: 21797
   9d9dee6896c0435a8a7243031507e933:
     span:
-      start: 23593
-      end: 23621
+      start: 23589
+      end: 23617
   602d5298fe4f4d52a2a88868b26b9d52:
     span:
-      start: 24171
-      end: 24207
+      start: 24167
+      end: 24203
   86597661db3244f4b19adc260543e3bd:
     span:
-      start: 26803
-      end: 26822
+      start: 26797
+      end: 26816
   65d7d5fb8d8247ea8d8a3d44c3d363a1:
     span:
-      start: 27684
-      end: 28054
+      start: 27677
+      end: 28047
   b1ee32db3a644b51b9047c6168c65879:
     span:
-      start: 28551
-      end: 28597
+      start: 28544
+      end: 28590
   7759531196c94306bb268b05bdf1b819:
     span:
-      start: 29631
-      end: 29664
+      start: 29624
+      end: 29657
   a3726a8871de4b578cc5fb19811803e1:
     span:
-      start: 30284
-      end: 30329
+      start: 30277
+      end: 30322
   a794e62b454742de8e8405b7f35c917a:
     span:
-      start: 33141
-      end: 33234
+      start: 33130
+      end: 33223
   c9861975f038474786e3b0ea3c468b2e:
     span:
-      start: 37537
-      end: 37576
+      start: 37521
+      end: 37560
   30fcd7800aef4815aaf9f259a09a2a5d:
     span:
-      start: 38894
-      end: 38916
+      start: 38876
+      end: 38898
   eb7d1134873e4cc2a144d39d6ab60616:
     span:
-      start: 41391
-      end: 41432
+      start: 41368
+      end: 41409
   9237ee39f80d4d5d93e276cb1827392a:
     span:
-      start: 41886
-      end: 42119
+      start: 41862
+      end: 42095
