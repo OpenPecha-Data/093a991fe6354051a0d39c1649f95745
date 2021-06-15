@@ -1,84 +1,84 @@
-id: a13279a9dc424e5ea4bde7f704d0734e
+id: 938dc9ff834a4da4b116ccdacc6a2f38
 annotation_type: Tsawa
-revision: '00015'
+revision: '00007'
 annotations:
   3c6b56c9e2c94a1d87d99d73820f28b7:
     span:
-      start: 1069
-      end: 1162
+      start: 1082
+      end: 1175
     is_verse: true
   9924a5f809d145779ceb3557c1d11e65:
     span:
-      start: 3449
-      end: 3581
+      start: 3462
+      end: 3594
     is_verse: true
   c34202f578354f8a820ba7b2d25a086a:
     span:
-      start: 6611
-      end: 6728
+      start: 6624
+      end: 6741
     is_verse: true
   57876e85bd7d4b6daf8ef5733b6b9563:
     span:
-      start: 16890
-      end: 16912
+      start: 16903
+      end: 16925
     is_verse: false
   e4ade252f6c243afa2a58bafc61eb516:
     span:
-      start: 20459
-      end: 20578
+      start: 20472
+      end: 20591
     is_verse: true
   8b63213d0d4b4f1eb8fb82eb83fa7216:
     span:
-      start: 23619
-      end: 23737
+      start: 23632
+      end: 23750
     is_verse: true
   6f56e558b3a6485888d878eaaff11c58:
     span:
-      start: 24205
-      end: 24318
+      start: 24218
+      end: 24331
     is_verse: true
   a43f9b131b5f4c2fac6867ea2b761e15:
     span:
-      start: 26818
-      end: 26927
+      start: 26831
+      end: 26940
     is_verse: true
   2788031d587543718af92bfe424b6b91:
     span:
-      start: 28049
-      end: 28172
+      start: 28062
+      end: 28185
     is_verse: true
   71c4d5f466644a8993010c002ebdd073:
     span:
-      start: 28592
-      end: 28711
+      start: 28605
+      end: 28724
     is_verse: true
   ce7d2993a51e43a78946568a79ed49a0:
     span:
-      start: 30324
-      end: 30673
+      start: 30337
+      end: 30686
     is_verse: true
   75b17cc990c5418483540be8d059609b:
     span:
-      start: 33225
-      end: 33343
+      start: 33238
+      end: 33356
     is_verse: true
   7fb20dccf5fd4c929e161fc4d4d95430:
     span:
-      start: 37562
-      end: 37684
+      start: 37575
+      end: 37697
     is_verse: true
   74f7d3d5a24c4a43b0cee7cd0b58bcf7:
     span:
-      start: 38900
-      end: 39125
+      start: 38913
+      end: 39138
     is_verse: true
   aa7d5f2d8fa7493488ce4b256ec463a6:
     span:
-      start: 41411
-      end: 41526
+      start: 41424
+      end: 41539
     is_verse: true
   0369b84777f042febc3a545bb6081f2a:
     span:
-      start: 42097
-      end: 42470
+      start: 42110
+      end: 42483
     is_verse: true
